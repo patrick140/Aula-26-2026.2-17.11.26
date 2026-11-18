@@ -1,0 +1,21 @@
+﻿id_aluno,nome,nome_curso,turno,nome_disciplina,nota,data_avaliacao
+3,Carla Mendes,Administração,Noite,Gestão Financeira,7.5,2026-06-30
+3,Carla Mendes,Administração,Noite,Marketing,8.0,2026-06-30
+8,Pedro Alves,Administração,Noite,Gestão Financeira,6.5,2026-06-30
+8,Pedro Alves,Administração,Noite,Marketing,9.0,2026-06-30
+4,Diego Ferreira,Enfermagem,Tarde,Anatomia,9.0,2026-06-30
+4,Diego Ferreira,Enfermagem,Tarde,Farmacologia,8.5,2026-06-30
+7,Mariana Costa,Enfermagem,Tarde,Anatomia,7.0,2026-06-30
+7,Mariana Costa,Enfermagem,Tarde,Farmacologia,6.0,2026-06-30
+9,Rafaela Nunes,Enfermagem,Tarde,Anatomia,8.5,2026-06-30
+9,Rafaela Nunes,Enfermagem,Tarde,Farmacologia,9.5,2026-06-30
+1,Ana Souza,Informática,Manhã,Banco de Dados,9.0,2026-06-30
+1,Ana Souza,Informática,Manhã,Lógica de Programação,8.5,2026-06-30
+2,Bruno Lima,Informática,Manhã,Banco de Dados,6.5,2026-06-30
+2,Bruno Lima,Informática,Manhã,Lógica de Programação,7.0,2026-06-30
+5,Joana Ribeiro,Informática,Manhã,Banco de Dados,8.0,2026-06-30
+5,Joana Ribeiro,Informática,Manhã,Lógica de Programação,9.5,2026-06-30
+6,Lucas Martins,Informática,Manhã,Banco de Dados,7.5,2026-06-30
+6,Lucas Martins,Informática,Manhã,Lógica de Programação,6.0,2026-06-30
+10,Thiago Rocha,Informática,Manhã,Banco de Dados,8.5,2026-06-30
+10,Thiago Rocha,Informática,Manhã,Lógica de Programação,8.0,2026-06-30
